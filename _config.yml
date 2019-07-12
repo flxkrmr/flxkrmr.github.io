@@ -2,4 +2,4 @@ name: Jonsy
 description: Jonsy's landing page
 url: "http://flxkrmr.github.io"
 markdown: kramdown
-theme: jekyll-theme-cayman
+remote_theme: flxkrmr/agency-jekyll-theme
