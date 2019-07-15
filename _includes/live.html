@@ -1,4 +1,4 @@
-{% assign shows = site.data.shows | sort: 'date'  %}
+{% assign shows = site.data.shows | sort: 'date' | reverse %}
 
 <ul>
 {% for show in shows %}
