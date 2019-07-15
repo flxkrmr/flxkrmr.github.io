@@ -1,7 +1,9 @@
 #banner-container {
   background-color: lightblue;
+  height: 100vh;
 }
 
 #news-container {
   background-color: red;
+  height: 100vh;
 }
