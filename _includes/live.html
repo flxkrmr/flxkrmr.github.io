@@ -1,9 +1,11 @@
 {% assign shows = site.data.shows | sort: 'date' | reverse %}
-
-<ul>
-{% for show in shows %}
-  <li>
-    {{show.date}} - {{show.name}} - {{show.location}} - <a href="{{show.link}}">Info</a>
-  </li>
-{% endfor %}
-</ul>
+<div id="live-container">
+  <h2>Live</h2>
+  <ul>
+  {% for show in shows %}
+    <li>
+      {{show.date}} - {{show.name}} - {{show.location}} - <a href="{{show.link}}">Info</a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
