@@ -4,9 +4,14 @@ url: "http://flxkrmr.github.io"
 markdown: kramdown
 
 title: Jonsy
+
 banner:
   title: Welcome to Jonsy's homepage
   subtitle: Jojojo
+
+info:
+  img: foto.jpg
+  text: Blablabla
 
 links:
   instagram: http://www.instagram.de
