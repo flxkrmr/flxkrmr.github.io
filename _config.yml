@@ -3,22 +3,23 @@ description: Jonsy's landing page
 url: "http://flxkrmr.github.io"
 markdown: kramdown
 
-title: Jonsy
+title: Page Title
 
 banner:
-  title: Welcome to Jonsy's homepage
+  title: Main Title
   subtitle: Jojojo
+  img: /assets/img/tree.gif
 
 info:
-  img: foto.jpg
+  img: /assets/img/foto.jpg
   text: Blablabla
 
 links:
   instagram: http://www.instagram.de
-  facebook: www.facebook.de
-  spotify: www.spotify.de
-  bandcamp: www.bandcamp.de
-  youtube: www.youtube.de/ladfkjs
+  facebook: http://www.facebook.de
+  spotify: http://www.spotify.de
+  bandcamp: http://www.bandcamp.de
+  youtube: http://www.youtube.de/ladfkjs
 
 contact:
   service: http://www.someformservice.com
