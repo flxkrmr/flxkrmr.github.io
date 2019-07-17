@@ -1,0 +1,9 @@
+#content {
+  width=vw;
+}
+
+body {
+  background-image: url("{{ site.banner.img }}");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}

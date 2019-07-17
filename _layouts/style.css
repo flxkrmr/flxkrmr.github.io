@@ -1,5 +1,0 @@
-{% include css/bootstrap.min.css %}
-{% include css/global.css %}
-{% include css/banner.css %}
-{% include css/news.css %}
-{{ content }}
