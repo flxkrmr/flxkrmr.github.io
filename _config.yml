@@ -1,6 +1,7 @@
 name: Jonsy
 description: Jonsy's landing page
 url: "http://flxkrmr.github.io"
+baseurl: "/"
 markdown: kramdown
 github: [metadata]
 encoding: UTF-8
