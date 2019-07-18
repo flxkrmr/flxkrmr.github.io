@@ -4,11 +4,12 @@ url: "http://flxkrmr.github.io"
 baseurl: "/"
 markdown: kramdown
 github: [metadata]
+repository: jonsy.music/homepage
 encoding: UTF-8
 sass:
   sass_dir: _sass
   style: compressed
-  
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
