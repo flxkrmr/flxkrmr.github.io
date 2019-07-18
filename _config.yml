@@ -1,7 +1,7 @@
 name: Jonsy
 description: Jonsy's landing page
 url: "http://jonsymusic.gitlab.io"
-baseurl: "/"
+baseurl: "/jekyll"
 markdown: kramdown
 github: [metadata]
 repository: jonsy.music/homepage
