@@ -1,0 +1,21 @@
+#banner {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100%;
+  z-index: -1;
+}
+
+#banner-placeholder {
+  height: 100vh;
+  width: 100%;
+  margin-bottom: -50px;
+  z-index: -1;
+}
+
+#banner-title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
