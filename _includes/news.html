@@ -1,8 +1,13 @@
 <div id="news-container" class="viewport-box bg-blue">
   <div class="position-center">
-  <h2>News</h2>
-  {% for post in site.posts %}
-    <li>{{ post.title }}</li>
-  {% endfor %}
+    <h2>News</h2>
+    <div class="news-card-container">
+      {% for post in site.posts %}
+      <div class="news-card bg-red">
+        <h4>{{ post.title }}</h4>
+        <h5>{{ post.subtitle }}</h5>
+      </div>
+      {% endfor %}
+    </div>
   </div>
 </div>
